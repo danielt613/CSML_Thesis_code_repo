@@ -1,3 +1,8 @@
 # CSML_Thesis_code_repo
+Requirements:
+*ASTRA
+*ODL
+*PyTorch
+*PyWavlets
 
-Running these codes requires ASTRA, ODL, Pytorch and Pywavelets. GPU is highly recommended.
+A GPU is highly recommended.
