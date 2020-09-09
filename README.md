@@ -4,5 +4,6 @@ Requirements:
 * ODL
 * PyTorch
 * PyWavlets
+* pytorch_ssim
 
 A GPU is highly recommended.
